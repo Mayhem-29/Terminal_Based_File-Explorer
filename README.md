@@ -5,6 +5,8 @@
 
 This File Explorer is compatible with any [UNIX](https://unix.org) based Operating System.
 
+![alt text](https://github.com/Mayhem-29/Terminal_Based_File-Explorer/blob/main/explorer.jpg)
+
 ## Installation and Execution
 
 Use the BASH Terminal to install C++.
